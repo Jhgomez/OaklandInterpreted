@@ -1,7 +1,7 @@
 ## Description
 
-Project 1 is a making an interpreter, this is a copy of the [actual project](https://github.com/Jhgomez/CompilerFrontend/tree/main/ProjectoParser), which is a type of compiler, the project follows [this](./Enunciado.pdf) specification,
-this language generates an AST, each node is then interpreted as specified in the documentation, using javascript, the generated
+Project 1 is making an interpreter, which is a type of compiler, the project follows [this](./Enunciado.pdf) specification, this is a copy of the [actual project](https://github.com/Jhgomez/CompilerFrontend/tree/main/ProjectoParser).
+This language generates an AST, each node is then interpreted as specified in the documentation, using javascript, the generated
 javascript code is then executed on the javascript engine from the browser. In this case javascript could represent what in 
 Java is known as bytecode which is some sort of intermediate representation
 
